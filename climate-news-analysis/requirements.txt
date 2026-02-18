@@ -1,0 +1,12 @@
+pandas
+pyarrow
+scikit-learn
+vaderSentiment
+transformers
+torch
+sentence-transformers
+bertopic
+matplotlib
+seaborn
+tqdm
+ruptures

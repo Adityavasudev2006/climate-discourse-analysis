@@ -1,0 +1,17 @@
+# 1. Ignore the CONTENTS of any data folder
+**/data/*
+
+# 2. But make an EXCEPTION for .txt files inside data folders
+!**/data/*.txt
+
+# 3. Block all .jsonl and .parquet files everywhere else
+**/*.jsonl
+**/*.parquet
+
+# 4. Block python cache
+**/__pycache__/
+**/*.pyc
+
+# 5. Block DBs and backups
+**/*.sqlite
+**/*.bak

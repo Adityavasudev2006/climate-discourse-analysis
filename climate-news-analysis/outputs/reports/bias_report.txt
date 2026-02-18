@@ -1,0 +1,255 @@
+Media Bias Analysis Report
+==========================
+
+This report analyzes sentiment bias by comparing each source's article sentiment
+to the regional average for articles on the same topic published in the same month.
+A positive bias score means the source was generally more positive than its regional peers.
+A negative score means it was more negative.
+
+--- Overall Bias Rankings by Source ---
+---------------------------------------
+- ECONOMIST: 0.1404
+- DW: 0.0910
+- NYTIMES: 0.0740
+- WASHINGTON_POST: 0.0497
+- ATLANTIC: 0.0488
+- STUFF: 0.0466
+- INDEPENDENT: 0.0249
+- CHINA_DAILY: 0.0216
+- DAILY_POST: 0.0056
+- DAILYMAIL: 0.0050
+- NZHERALD: 0.0018
+- FOLHA: 0.0005
+- ALJAZEERA: -0.0000
+- BATIMES: -0.0006
+- DAILY_NATION: -0.0027
+- NEWSHUB: -0.0093
+- YOMIURI: -0.0217
+- CNN: -0.0469
+- GUARDIAN: -0.0474
+- SKYAU: -0.0712
+- FOX: -0.1234
+- BBC: -0.1599
+
+--- Detailed Source Analysis ---
+--------------------------------
+### SOURCE: ECONOMIST ###
+Overall Bias Score: 0.1404
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2019-02-03:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: DW ###
+Overall Bias Score: 0.0910
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2018-07-08:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2023-09-10:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: NYTIMES ###
+Overall Bias Score: 0.0740
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2018-09-09:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: WASHINGTON_POST ###
+Overall Bias Score: 0.0497
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2018-09-23:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2019-08-04:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2023-09-17:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: ATLANTIC ###
+Overall Bias Score: 0.0488
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2016-11-20:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: STUFF ###
+Overall Bias Score: 0.0466
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: INDEPENDENT ###
+Overall Bias Score: 0.0249
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: CHINA_DAILY ###
+Overall Bias Score: 0.0216
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: DAILY_POST ###
+Overall Bias Score: 0.0056
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: DAILYMAIL ###
+Overall Bias Score: 0.0050
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: NZHERALD ###
+Overall Bias Score: 0.0018
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: FOLHA ###
+Overall Bias Score: 0.0005
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2022-05-22:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2023-08-20:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: ALJAZEERA ###
+Overall Bias Score: -0.0000
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: BATIMES ###
+Overall Bias Score: -0.0006
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: DAILY_NATION ###
+Overall Bias Score: -0.0027
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2022-09-04:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2024-02-11:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: NEWSHUB ###
+Overall Bias Score: -0.0093
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: YOMIURI ###
+Overall Bias Score: -0.0217
+
+No significant shifts in sentiment bias detected during the analyzed period.
+
+--------------------------------
+
+### SOURCE: CNN ###
+Overall Bias Score: -0.0469
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2018-09-16:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: GUARDIAN ###
+Overall Bias Score: -0.0474
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2018-02-11:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: SKYAU ###
+Overall Bias Score: -0.0712
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2019-03-17:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2023-11-26:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: FOX ###
+Overall Bias Score: -0.1234
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2018-09-16:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
+### SOURCE: BBC ###
+Overall Bias Score: -0.1599
+
+Detected shifts in sentiment bias and potential correlated events:
+  - On/Around 2018-07-29:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2020-06-28:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2022-04-24:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2023-04-09:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+  - On/Around 2023-08-27:
+    - A significant shift in reporting bias was detected.
+    - No major predefined event was found to correlate with this shift.
+
+--------------------------------
+
