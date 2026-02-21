@@ -65,5 +65,5 @@ python main.py
 ```
 
 ## 👥 Authors
-* **Aditya Vasudev K** - (23BDS1067)
-* **Ananya Vinay** - (23BDS1066)
+* **Aditya Vasudev K**
+* **Ananya Vinay**
